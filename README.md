@@ -1,3 +1,3 @@
 # stepik_course_selenium_python
-Practice
-First
+
+My practice with Selenium and Python
